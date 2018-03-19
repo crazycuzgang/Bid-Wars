@@ -1,0 +1,2 @@
+# Bid-Wars
+This app is an app in which will help the world with everyday chores. For instance, if you need help with cutting the grass or need some snow plowed, this is the place to come to. Not only does this app help you with your chores, but it is also about bidding. When someone finds a job they want and some other person wants to do the same job, they can bid on it. Whomever bids the lowest gets the job. Unless you have a bad star review, the employer gets to choose which one they want. Welcome to Bid Wars™!!
